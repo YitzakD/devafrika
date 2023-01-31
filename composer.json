@@ -1,0 +1,9 @@
+{
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "cloudinary/cloudinary_php": "^1.16",
+        "nesbot/carbon": "^2.34.0",
+        "phpmailer/phpmailer": "^6.1",
+        "pusher/pusher-php-server": "^4.1"
+    }
+}
